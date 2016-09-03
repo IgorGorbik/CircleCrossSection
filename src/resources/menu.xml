@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menubar name="mainMenu">
+    <menu name="file" text="Выход" mnemonic="Ф">
+        <menuitem name="exit" text="Выход" mnemonic="В" accelerator="alt X"/>
+    </menu>
+    <menu name="file2" text="Нормы" mnemonic="D">
+        <menuitem name="normative" text="Нормы" mnemonic="N" accelerator="alt N"/>
+    </menu>
+</menubar>
